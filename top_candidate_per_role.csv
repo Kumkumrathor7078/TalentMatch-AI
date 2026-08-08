@@ -1,0 +1,41 @@
+standard_role,Name,ID,final_match_score,skill_match_score,text_similarity_score,matched_skills_text,missing_skills_text,final_recommendation
+Business Analyst,Ananya,VAMSKR108,76.73,100.0,20.44,"data analysis, data visualization, excel, power bi, tableau",None,Highly Recommended
+DevOps Engineer,Shanti,VAMSKR075,76.33,85.71,25.81,"aws, azure, docker, gitlab, kubernetes, python",gcp,Highly Recommended
+Data Scientist,Mark Mason,durgba050,73.6,100.0,27.0,"deep learning, nlp, statistics",None,Recommended
+UI Engineer,Frank Wilson,uppaup288,72.25,100.0,23.56,"git, javascript",None,Recommended
+Software Engineer,Diana Moore,uppaup241,71.84,100.0,15.92,"aws, azure, docker, git, java, javascript, kubernetes, python",None,Recommended
+Digital Marketing Specialist,Bhavani,VAMSKR184,69.33,100.0,33.84,data analysis,None,Consider
+Product Manager,Diana Williams,uppaup195,69.22,100.0,24.11,"data analysis, sql",None,Recommended
+Data Engineer,Hank Jones,uppaup482,68.95,84.62,19.1,"aws, data visualization, etl, gcp, hadoop, java, machine learning, power bi, python, spark, tableau","data science, scala",Recommended
+Machine Learning Engineer,Erik Smith,eriksm594,68.33,100.0,17.81,"feature engineering, machine learning, python",None,Recommended
+AI Engineer,Ramesh,VAMSKR124,66.98,52.63,27.63,"artificial intelligence, aws, docker, google cloud, java, natural language processing, nlp, python, pytorch, tensorflow","azure, computer vision, data science, data visualization, deep learning, feature engineering, gcp, keras, machine learning",Recommended
+Cloud Architect,Justin Peterson,justpe374,64.52,100.0,18.18,"aws, gcp",None,Recommended
+Data Analyst,Heather Perkins,heatpe419,63.84,100.0,13.42,"power bi, sql, tableau",None,Recommended
+AI Researcher,Alexandria Wood,alexwo353,63.35,100.0,16.56,"computer vision, nlp",None,Recommended
+Mobile App Developer,Elizabeth Burns,elizbu323,61.25,100.0,23.62,api,None,Consider
+Database Administrator,Gowtham,VAMSKR145,58.12,44.44,30.38,"mysql, oracle, sql, sql server","aws, azure, git, hadoop, spark",Consider
+Full Stack Developer,Stephanie Morris,stepmo912,55.75,100.0,16.27,javascript,None,Consider
+System Administrator,Srinivas,VAMSKR113,54.07,60.0,14.85,"aws, azure, python","docker, gitlab",Consider
+Data Architect,Brandon Perkins,branpe917,53.35,100.0,16.47,etl,None,Consider
+AR/VR Developer,Tyler Patterson,tylepa150,52.1,100.0,9.14,machine learning,None,Consider
+Robotics Engineer,Bryce Murphy,brycmu835,47.96,100.0,10.07,data analysis,None,Consider
+UX Designer,Ryan Powell,ryanpo965,47.91,100.0,10.57,data analysis,None,Consider
+Game Developer,Suma,VAMSKR138,46.18,33.33,22.92,"java, python","aws, azure, git, machine learning",Consider
+Cybersecurity Analyst,Rebecca Rodriguez,rebero957,45.55,100.0,7.4,machine learning,None,Consider
+HR Specialist,Deepthi,VAMSKR144,45.08,0.0,30.12,None,None,Consider
+Human Resources Specialist,Dawn Lynch,dawnly598,44.61,100.0,9.87,data analysis,None,Consider
+E-commerce Specialist,Raymond Hall,raymha313,44.59,100.0,8.09,data analysis,None,Consider
+Cybersecurity Specialist,Nandini,VAMSKR002,44.22,0.0,33.93,None,"artificial intelligence, aws, data analysis",Consider
+Graphic Designer,Rajendra,VAMSKR038,43.23,0.0,37.5,None,None,Consider
+Network Engineer,Navya,VAMSKR004,41.1,0.0,28.26,None,"aws, azure, python",Consider
+QA Engineer,Deborah Fritz,debofr450,38.5,0.0,24.73,None,None,Not Recommended
+Content Writer,Gowtham,VAMSKR029,38.34,0.0,28.94,None,None,Not Recommended
+UI/UX Designer,Divya,VAMSKR020,37.47,0.0,26.52,None,"data analysis, javascript, power bi, tableau",Not Recommended
+Cloud Engineer,Kaylee Vaughan,kaylva872,31.06,0.0,21.35,None,None,Not Recommended
+Blockchain Developer,Tiffany Davis,tiffda717,31.0,0.0,24.03,None,None,Not Recommended
+IT Support Specialist,Joseph Rosario,josero799,29.42,0.0,16.9,None,None,Not Recommended
+UI Designer,Arjun,harima142,29.19,0.0,11.62,None,None,Not Recommended
+Project Manager,Ekta Tiwari,KotaSai25,26.32,0.0,11.86,None,None,Not Recommended
+ui designer,mythily kohli,rivash0767,23.1,0.0,11.05,None,None,Not Recommended
+Software Developer,Hyma Mittal,KotaSai192,21.34,0.0,8.88,None,None,Not Recommended
+data analyst,pihu raghav,rivash0220,21.15,0.0,8.03,None,None,Not Recommended

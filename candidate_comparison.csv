@@ -1,0 +1,4 @@
+comparison_rank,final_rank,ID,Name,Role,text_similarity_score,skill_match_score,selection_probability,final_match_score,final_recommendation,matched_skills_text,missing_skills_text
+1,1,VAMSKR184,Bhavani,Digital Marketing Specialist,33.84,100.0,50.23,86.35,Highly Recommended,data analysis,
+2,2,uppaup315,Jack Wilson,UI Engineer,26.16,100.0,60.01,79.92,Highly Recommended,javascript,
+3,3,uppaup156,Eve Smith,UI Engineer,27.19,100.0,54.88,79.7,Highly Recommended,javascript,

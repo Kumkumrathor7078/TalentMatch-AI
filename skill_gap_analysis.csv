@@ -1,0 +1,55 @@
+Rank,Skill,Candidates_Missing
+1,data science,409
+2,machine learning,398
+3,data analysis,311
+4,aws,261
+5,docker,226
+6,azure,207
+7,kubernetes,189
+8,google cloud,187
+9,artificial intelligence,179
+10,statistics,135
+11,git,97
+12,hadoop,95
+13,power bi,95
+14,gcp,91
+15,spark,85
+16,etl,76
+17,deep learning,74
+18,pytorch,74
+19,tableau,71
+20,java,64
+21,natural language processing,60
+22,computer vision,60
+23,scala,56
+24,python,55
+25,data visualization,44
+26,tensorflow,40
+27,nlp,38
+28,sql,34
+29,mlops,33
+30,gitlab,29
+31,api,24
+32,excel,21
+33,data mining,18
+34,feature engineering,18
+35,javascript,17
+36,r,16
+37,hive,14
+38,keras,12
+39,github,12
+40,mysql,11
+41,postgresql,9
+42,mongodb,9
+43,numpy,8
+44,pandas,7
+45,kafka,7
+46,time series,7
+47,sql server,5
+48,typescript,5
+49,matplotlib,5
+50,oracle,5
+51,model deployment,3
+52,django,2
+53,flask,1
+54,seaborn,1

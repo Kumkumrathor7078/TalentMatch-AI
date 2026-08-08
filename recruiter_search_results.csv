@@ -1,0 +1,11 @@
+final_rank,ID,Name,Role,text_similarity_score,skill_match_score,selection_probability,final_match_score,final_recommendation,matched_skills_text,missing_skills_text
+9,durgba112,Kelly Henderson,Data Scientist,28.74,100.0,34.24,75.67,Highly Recommended,"deep learning, machine learning, statistics",
+23,durgba136,Sandra Mitchell,Data Scientist,24.15,100.0,43.31,72.75,Recommended,"machine learning, nlp, python, statistics",
+29,durgba123,Wendy Davidson,Data Scientist,24.4,100.0,40.28,72.19,Recommended,"data visualization, machine learning, statistics",
+48,uppaup441,Eve Taylor,Data Scientist,22.16,85.71,58.17,69.6,Recommended,"data analysis, data science, data visualization, machine learning, power bi, python, pytorch, r, spark, sql, tableau, tensorflow","hadoop, statistics"
+49,durgba171,Kayla Burch,Data Scientist,20.88,100.0,45.36,69.41,Recommended,"data visualization, deep learning, machine learning",
+62,uppaup261,Frank Smith,Data Scientist,18.64,92.86,61.65,68.87,Recommended,"aws, data analysis, data science, data visualization, machine learning, power bi, python, pytorch, r, sql, statistics, tableau, tensorflow",google cloud
+76,durgba087,Heather Rivera,Data Scientist,20.87,100.0,41.09,68.18,Recommended,"data visualization, deep learning, machine learning",
+89,broojo720,brooke jones,data scientist,19.3,100.0,45.92,67.68,Recommended,"machine learning, python, sql, statistics",
+91,halejo854,haley jones,data scientist,18.82,100.0,47.75,67.62,Recommended,"data visualization, deep learning, machine learning, sql",
+96,durgba045,Kevin Smith,Data Scientist,22.01,100.0,34.02,67.54,Recommended,"deep learning, machine learning, python",

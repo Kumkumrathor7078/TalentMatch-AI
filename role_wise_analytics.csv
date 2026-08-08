@@ -1,0 +1,41 @@
+standard_role,Candidates,Average_Score,Average_Skill_Coverage,Average_Text_Similarity,Average_Selection_Probability,Top_Score
+AI Engineer,13,53.22,46.39,22.59,52.07,66.98
+Machine Learning Engineer,265,43.67,86.22,8.4,51.14,68.33
+Cybersecurity Specialist,9,38.25,0.0,29.03,51.68,44.22
+Graphic Designer,15,37.88,0.0,29.64,48.39,43.23
+HR Specialist,12,37.83,0.0,27.67,54.67,45.08
+UI/UX Designer,7,35.5,0.0,25.9,52.26,37.47
+Network Engineer,16,35.1,0.0,25.15,53.3,41.1
+Data Scientist,825,34.36,40.91,8.67,49.39,73.6
+UI Engineer,507,31.41,29.86,13.11,48.9,72.25
+Software Engineer,787,30.07,33.36,8.47,49.81,71.84
+Data Engineer,754,29.66,31.33,8.32,49.7,68.95
+Product Manager,761,24.76,15.4,10.56,49.91,69.22
+Full Stack Developer,246,22.89,4.88,11.56,50.37,55.75
+Digital Marketing Specialist,260,21.84,3.85,10.88,49.9,69.33
+Mobile App Developer,247,21.44,2.69,10.71,50.14,61.25
+Cloud Architect,254,20.94,8.26,7.59,50.78,64.52
+AI Researcher,225,20.9,11.33,7.11,51.16,63.35
+Business Analyst,226,20.72,10.67,7.31,49.97,76.73
+Data Analyst,329,20.58,12.6,5.84,50.86,63.84
+DevOps Engineer,266,20.47,7.33,7.35,51.0,76.33
+Game Developer,239,20.13,0.31,10.49,48.44,46.18
+Data Architect,225,19.99,8.0,7.28,51.28,53.35
+UI Designer,71,19.69,0.0,8.9,52.44,29.19
+UX Designer,227,19.61,0.44,8.76,52.21,47.91
+Database Administrator,243,19.36,4.08,8.02,49.72,58.12
+Human Resources Specialist,262,19.02,0.38,9.6,47.48,44.61
+Robotics Engineer,257,18.74,1.56,7.97,50.71,47.96
+IT Support Specialist,224,18.53,0.0,8.36,50.17,29.42
+Blockchain Developer,251,18.44,0.0,8.35,49.9,31.0
+Content Writer,238,18.43,0.0,8.42,49.63,38.34
+Project Manager,56,18.19,0.0,7.84,50.67,26.32
+AR/VR Developer,237,18.18,0.42,8.91,46.73,52.1
+System Administrator,223,17.58,0.32,7.37,49.65,54.07
+E-commerce Specialist,268,17.46,2.61,6.36,50.5,44.59
+Cybersecurity Analyst,234,17.32,0.43,7.01,49.94,45.55
+QA Engineer,251,16.83,0.0,6.21,51.24,38.5
+Cloud Engineer,240,16.25,0.0,5.9,50.21,31.06
+ui designer,155,15.02,0.0,4.67,49.91,23.1
+data analyst,183,14.78,0.0,4.51,49.6,21.15
+Software Developer,66,13.71,0.0,3.28,49.91,21.34

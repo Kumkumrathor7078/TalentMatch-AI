@@ -27,8 +27,8 @@ st.set_page_config(
 # ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent
-MODELS_DIR = BASE_DIR / "models"
-OUTPUTS_DIR = BASE_DIR / "outputs"
+MODELS_DIR = BASE_DIR
+OUTPUTS_DIR = BASE_DIR
 
 
 # ============================================================

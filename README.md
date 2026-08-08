@@ -16,7 +16,6 @@ The project combines **data processing, machine learning, NLP-based text analysi
 
 > Try the live TalentMatch-AI application for AI-powered resume screening and candidate matching.
 
-> Replace `YOUR_STREAMLIT_APP_URL` with the Streamlit URL after deployment.
 
 ---
 
